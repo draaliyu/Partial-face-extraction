@@ -7,7 +7,8 @@ Dependencies
     OpenCV (cv2)
 
 You can install OpenCV with pip: pip install opencv-python
-Usage
+
+
 
     Download the haarcascade XML files from the OpenCV GitHub repository or other source.
         haarcascade_frontalface_default.xml
